@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya-X&theme=dark&show_icons=true)
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya-X&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-X?theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-X&theme=tokyonight)
 
 <!--
 **Aya-X/Aya-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
