@@ -2,7 +2,7 @@
 
 ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya-X&theme=tokyonight&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aya-X&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats-q7cp3i4we-maord-pmme.vercel.app?user=Aya-X&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
 
 
 
