@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya-X&theme=tokyonight&show_icons=true)
+![Aya's GitHub stats](https://github-readme-stats-islrxy1fa-maord-pmme.vercel.app/api?username=Aya-X&theme=tokyonight&show_icons=true&rank_icon=percentile&hide_border=true&card_width=470)
 
-[![GitHub Streak](https://github-readme-streak-stats-q7cp3i4we-maord-pmme.vercel.app?user=Aya-X&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-q7cp3i4we-maord-pmme.vercel.app?user=Aya-X&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true)](https://git.io/streak-stats)
 
 
 
